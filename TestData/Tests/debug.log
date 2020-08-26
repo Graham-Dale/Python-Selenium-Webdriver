@@ -1,0 +1,8 @@
+[0819/110957.073:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\HOMELA~1\AppData\Local\Temp\scoped_dir39100_2042170284\Crashpad\reports\1dba57fb-2444-426e-815f-6c3670e799ef.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0819/112933.291:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\HOMELA~1\AppData\Local\Temp\scoped_dir39484_1352300031\Crashpad\reports\d77dadc2-800d-47fa-b2b5-023d86a5b4c0.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0819/112935.214:ERROR:process_info.cc(359)] UncheckedAllocate
+[0819/113416.378:ERROR:process_info.cc(359)] UncheckedAllocate
+[0819/113435.024:ERROR:process_info.cc(359)] UncheckedAllocate
+[0819/115147.632:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\HOMELA~1\AppData\Local\Temp\scoped_dir45496_1610241759\Crashpad\reports\4df0bc13-87fd-425b-ba6e-db26abb827c8.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0819/121036.973:ERROR:process_info.cc(359)] UncheckedAllocate
+[0819/121038.019:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\HOMELA~1\AppData\Local\Temp\scoped_dir38176_1658226043\Crashpad\reports\cae50a10-83c3-4d70-9171-3a66cc5c75b7.dmp: The process cannot access the file because it is being used by another process. (0x20)

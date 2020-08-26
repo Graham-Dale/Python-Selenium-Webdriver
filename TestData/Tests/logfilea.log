@@ -1,0 +1,170 @@
+2020-08-19 16:54:25,301 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 16:54:25,497 : INFO : test_end_to_end : Blackberry
+2020-08-19 16:54:25,725 : INFO : test_end_to_end : Entering in country name
+2020-08-19 16:54:31,506 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-19 16:54:57,881 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 16:54:58,074 : INFO : test_end_to_end : Blackberry
+2020-08-19 16:54:58,323 : INFO : test_end_to_end : Entering in country name
+2020-08-19 16:55:04,221 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-19 16:57:21,308 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 16:57:21,535 : INFO : test_end_to_end : Blackberry
+2020-08-19 16:57:21,827 : INFO : test_end_to_end : Entering in country name
+2020-08-19 16:57:27,610 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-19 16:59:17,034 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 16:59:17,052 : INFO : test_end_to_end : [<selenium.webdriver.remote.webelement.WebElement (session="5f7c3c2657d06f684845d6f96e8691f5", element="19a187ff-188a-48bb-bdb0-e02ba3d73a24")>, <selenium.webdriver.remote.webelement.WebElement (session="5f7c3c2657d06f684845d6f96e8691f5", element="a43b821e-f008-48f1-9518-3b5047449922")>, <selenium.webdriver.remote.webelement.WebElement (session="5f7c3c2657d06f684845d6f96e8691f5", element="ae89908c-33a1-4791-81df-df4c02aaf221")>, <selenium.webdriver.remote.webelement.WebElement (session="5f7c3c2657d06f684845d6f96e8691f5", element="03e0ddbb-d920-4dc9-8f65-522d6007b1b9")>]
+2020-08-19 16:59:17,212 : INFO : test_end_to_end : Blackberry
+2020-08-19 16:59:17,456 : INFO : test_end_to_end : Entering in country name
+2020-08-19 16:59:23,256 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-19 17:00:19,469 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 17:01:53,794 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 17:04:08,258 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 17:04:08,464 : INFO : test_end_to_end : Blackberry
+2020-08-19 17:04:08,741 : INFO : test_end_to_end : Entering in country name
+2020-08-19 17:04:14,701 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-19 17:06:21,398 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 17:06:21,424 : INFO : test_end_to_end : [<selenium.webdriver.remote.webelement.WebElement (session="a37910fdbacbbbd566ffe98f23277b3b", element="c5285606-c180-424c-99b9-c2c96f1e1086")>, <selenium.webdriver.remote.webelement.WebElement (session="a37910fdbacbbbd566ffe98f23277b3b", element="b1475031-2099-4999-bf6a-202203a53c2d")>, <selenium.webdriver.remote.webelement.WebElement (session="a37910fdbacbbbd566ffe98f23277b3b", element="907a7d3b-0e93-49bf-a98b-b8952542e00b")>, <selenium.webdriver.remote.webelement.WebElement (session="a37910fdbacbbbd566ffe98f23277b3b", element="16679a78-3938-4780-9405-aa057546c498")>]
+2020-08-19 17:06:21,644 : INFO : test_end_to_end : Blackberry
+2020-08-19 17:06:21,926 : INFO : test_end_to_end : Entering in country name
+2020-08-19 17:06:27,762 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-19 17:07:27,738 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 17:07:27,914 : INFO : test_end_to_end : Blackberry
+2020-08-19 17:07:28,158 : INFO : test_end_to_end : Entering in country name
+2020-08-19 17:07:33,901 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-19 17:08:33,372 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 17:08:33,411 : INFO : test_end_to_end : iphone X
+2020-08-19 17:08:33,432 : INFO : test_end_to_end : Samsung Note 8
+2020-08-19 17:08:33,453 : INFO : test_end_to_end : Nokia Edge
+2020-08-19 17:08:33,474 : INFO : test_end_to_end : Blackberry
+2020-08-19 17:08:33,547 : INFO : test_end_to_end : Blackberry
+2020-08-19 17:08:33,784 : INFO : test_end_to_end : Entering in country name
+2020-08-19 17:08:39,757 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-19 22:07:12,867 : INFO : test_end_to_end : getting all the Card titles
+2020-08-19 22:07:12,917 : INFO : test_end_to_end : iphone X
+2020-08-19 22:07:12,941 : INFO : test_end_to_end : Samsung Note 8
+2020-08-19 22:07:12,965 : INFO : test_end_to_end : Nokia Edge
+2020-08-19 22:07:12,986 : INFO : test_end_to_end : Blackberry
+2020-08-19 22:07:13,362 : INFO : test_end_to_end : Entering in country name
+2020-08-19 22:07:19,204 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 10:51:47,025 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 10:51:47,071 : INFO : test_end_to_end : iphone X
+2020-08-20 10:51:47,088 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 10:51:47,105 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 10:51:47,130 : INFO : test_end_to_end : Blackberry
+2020-08-20 10:51:47,465 : INFO : test_end_to_end : Entering in country name
+2020-08-20 10:51:53,096 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 11:04:42,140 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 11:04:42,188 : INFO : test_end_to_end : iphone X
+2020-08-20 11:04:42,204 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 11:04:42,223 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 11:04:42,244 : INFO : test_end_to_end : Blackberry
+2020-08-20 11:04:42,560 : INFO : test_end_to_end : Entering in country name
+2020-08-20 11:04:48,247 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 11:08:23,911 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 11:08:23,958 : INFO : test_end_to_end : iphone X
+2020-08-20 11:08:23,973 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 11:08:23,992 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 11:08:24,014 : INFO : test_end_to_end : Blackberry
+2020-08-20 11:08:24,320 : INFO : test_end_to_end : Entering in country name
+2020-08-20 11:08:30,118 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 11:11:37,407 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 11:11:37,455 : INFO : test_end_to_end : iphone X
+2020-08-20 11:11:37,481 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 11:11:37,501 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 11:11:37,524 : INFO : test_end_to_end : Blackberry
+2020-08-20 11:11:37,940 : INFO : test_end_to_end : Entering in country name
+2020-08-20 11:11:43,707 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 11:20:27,357 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 11:20:27,416 : INFO : test_end_to_end : iphone X
+2020-08-20 11:20:27,440 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 11:20:27,474 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 11:20:27,505 : INFO : test_end_to_end : Blackberry
+2020-08-20 11:20:27,931 : INFO : test_end_to_end : Entering in country name
+2020-08-20 11:20:33,798 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 12:30:32,667 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 12:30:32,720 : INFO : test_end_to_end : iphone X
+2020-08-20 12:30:32,741 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 12:30:32,768 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 12:30:32,792 : INFO : test_end_to_end : Blackberry
+2020-08-20 12:30:33,169 : INFO : test_end_to_end : Entering in country name
+2020-08-20 12:30:38,913 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 12:39:06,056 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 12:39:06,094 : INFO : test_end_to_end : iphone X
+2020-08-20 12:39:06,114 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 12:39:06,131 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 12:39:06,150 : INFO : test_end_to_end : Blackberry
+2020-08-20 12:39:06,467 : INFO : test_end_to_end : Entering in country name
+2020-08-20 12:39:12,313 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 12:41:44,811 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 12:41:44,872 : INFO : test_end_to_end : iphone X
+2020-08-20 12:41:44,894 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 12:41:44,933 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 12:41:44,963 : INFO : test_end_to_end : Blackberry
+2020-08-20 12:41:45,424 : INFO : test_end_to_end : Entering in country name
+2020-08-20 12:41:51,401 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 12:44:15,965 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 12:44:16,008 : INFO : test_end_to_end : iphone X
+2020-08-20 12:44:16,025 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 12:44:16,042 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 12:44:16,058 : INFO : test_end_to_end : Blackberry
+2020-08-20 12:44:16,391 : INFO : test_end_to_end : Entering in country name
+2020-08-20 12:44:22,341 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 12:45:03,517 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 12:45:03,571 : INFO : test_end_to_end : iphone X
+2020-08-20 12:45:03,594 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 12:45:03,613 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 12:45:03,633 : INFO : test_end_to_end : Blackberry
+2020-08-20 12:45:04,010 : INFO : test_end_to_end : Entering in country name
+2020-08-20 12:45:09,909 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 13:03:06,494 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 13:03:06,537 : INFO : test_end_to_end : iphone X
+2020-08-20 13:03:06,545 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 13:03:06,554 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 13:03:06,560 : INFO : test_end_to_end : Blackberry
+2020-08-20 13:03:07,370 : INFO : test_end_to_end : Entering in country name
+2020-08-20 13:03:13,599 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 13:10:07,815 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 13:10:29,787 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 13:15:23,422 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 13:15:23,452 : INFO : test_end_to_end : iphone X
+2020-08-20 13:15:23,463 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 13:15:23,469 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 13:15:23,479 : INFO : test_end_to_end : Blackberry
+2020-08-20 13:15:24,254 : INFO : test_end_to_end : Entering in country name
+2020-08-20 13:15:30,493 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 16:14:30,922 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 16:14:31,011 : INFO : test_end_to_end : iphone X
+2020-08-20 16:14:31,031 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 16:14:31,058 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 16:14:31,080 : INFO : test_end_to_end : Blackberry
+2020-08-20 16:14:31,501 : INFO : test_end_to_end : Entering in country name
+2020-08-20 16:14:37,529 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-20 16:20:08,149 : INFO : test_end_to_end : getting all the Card titles
+2020-08-20 16:20:08,214 : INFO : test_end_to_end : iphone X
+2020-08-20 16:20:08,240 : INFO : test_end_to_end : Samsung Note 8
+2020-08-20 16:20:08,268 : INFO : test_end_to_end : Nokia Edge
+2020-08-20 16:20:08,292 : INFO : test_end_to_end : Blackberry
+2020-08-20 16:20:08,759 : INFO : test_end_to_end : Entering in country name
+2020-08-20 16:20:14,797 : INFO : test_end_to_end : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
